@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">repository_g_3</string>
+    <string name="_save">Save</string>
+    <string name="_go_to_second">Go to second</string>
+    <string name="_read_preferences">Read preferences</string>
+    <string name="_back">Back</string>
+    <string-array name="themes">
+        <item>Default</item>
+        <item>Dark theme</item>
+        <item>Light theme</item>
+    </string-array>
+
+</resources>
